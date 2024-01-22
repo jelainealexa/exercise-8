@@ -2,5 +2,5 @@
 rows = 5
 
 # Outer loop
-
-# Inner loop
+for i in range(rows + 1):
+    # Inner loop
